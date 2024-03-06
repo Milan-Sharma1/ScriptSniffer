@@ -1,0 +1,5 @@
+pymupdf
+pytesseract
+langdetect
+PyPDF2
+pillow
