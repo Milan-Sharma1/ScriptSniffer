@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to extract text and images from PDF files using Python. It utilizes libraries such as PyPDF2, PyMuPDF (fitz), OpenCV, and Tesseract OCR for this purpose. The extracted text and images can be utilized for various purposes like text analysis, image processing, or content extraction.
+This project aims to extract text present in images from PDF files using Python. It utilizes libraries such as PyPDF2, PyMuPDF (fitz), OpenCV, and Tesseract OCR for this purpose. The extracted text and images can be utilized for various purposes like text analysis, image processing, or content extraction.
 
 ## Setup
 
